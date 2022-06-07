@@ -1,2 +1,3 @@
-# SARS-CoV-muutation-prediction
-This repo is for the work in the science paper - "Predicting the mutational drivers of future SARS-CoV-2 variants of concern", for SARS mutation prediction. Here, I am trying to collect all the data and repeat the results, and then try to give further modification. 
+# SARS-CoV-mutation-predictiork 
+
+This work focuses on the prediction of next "Omicron" based on the science paper: "Predicting the mutational drivers of future SARS-CoV-2 variants of concern".  Here, I am trying to collect all the data and repeat the results, and then to give further modification. 
